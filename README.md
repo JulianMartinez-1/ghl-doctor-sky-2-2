@@ -1,2 +1,12 @@
-# ghl-doctor-sky-2-2
-Exportado desde GHL por GHL Exporter AI — DOCTOR SKY 2
+# ghl-DOCTOR SKY 2
+
+Generado automáticamente por **GHL Exporter AI**.
+
+## Iniciar
+
+```bash
+npm install
+npm run dev
+```
+
+Abrir [http://localhost:3000](http://localhost:3000) en el navegador.
